@@ -16,5 +16,6 @@ public class AverageArray {
         double average = (double) sum / n;
         System.out.println("Sum = " + sum);
         System.out.println("Average = " + average);
+
     }
 }
